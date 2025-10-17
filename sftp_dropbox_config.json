@@ -1,0 +1,92 @@
+{
+  "EGI_2_0_APJ_INC": {
+    "host": "hprc-h2.it.hpe.com",
+    "port": 2222,
+    "username": "bsandhu",
+    "password": "Egi360_dropbox_2",
+    "remote_dir": "/",
+    "local_dir": "D:\\EGI\\",
+    "file_pattern": "EGI_2_0_APJ_INC.xlsx",
+	"source_ext": "xlsx",
+	"target_ext": "xlsx"
+  },
+  "EGI_2_0_AMS_INC": {
+    "host": "hprc-h2.it.hpe.com",
+    "port": 2222,
+    "username": "bsandhu",
+    "password": "Egi360_dropbox_2",
+    "remote_dir": "/",
+    "local_dir": "D:\\EGI\\",
+    "file_pattern": "EGI_2_0_AMS_INC.xlsx",
+	"source_ext": "xlsx",
+	"target_ext": "xlsx"
+  },
+  "EGI_2_0_EMEA_INC": {
+    "host": "hprc-h2.it.hpe.com",
+    "port": 2222,
+    "username": "bsandhu",
+    "password": "Egi360_dropbox_2",
+    "remote_dir": "/",
+    "local_dir": "D:\\EGI\\",
+    "file_pattern": "EGI_2_0_EMEA_INC.xlsx",
+	"source_ext": "xlsx",
+	"target_ext": "xlsx"
+  },
+  "EMEA_Orderbook_Backlog": {
+    "host": "hprc-h2.it.hpe.com",
+    "port": 2222,
+    "username": "sc360_gw",
+    "password": "SC360DropboxPWD2",
+    "remote_dir": "/",
+    "local_dir": "D:\\Backlog\\Orderbook_Files\\",
+    "file_pattern": "EMEA_Orderbook_Backlog.csv",
+	"source_ext": "csv",
+	"target_ext": "csv"
+  },
+  "AMS_Orderbook_Backlog": {
+    "host": "hprc-h2.it.hpe.com",
+    "port": 2222,
+    "username": "sc360_gw",
+    "password": "SC360DropboxPWD2",
+    "remote_dir": "/",
+    "local_dir": "D:\\Backlog\\Orderbook_Files\\",
+    "file_pattern": "AMS_Orderbook_Backlog.csv",
+	"source_ext": "csv",
+	"target_ext": "csv"
+  },
+  "APJ_Orderbook_Backlog": {
+    "host": "hprc-h2.it.hpe.com",
+    "port": 2222,
+    "username": "sc360_gw",
+    "password": "SC360DropboxPWD2",
+    "remote_dir": "/",
+    "local_dir": "D:\\Backlog\\Orderbook_Files\\",
+    "file_pattern": "APJ_Orderbook_Backlog.csv",
+	"source_ext": "csv",
+	"target_ext": "csv"
+  },
+  "Aruba_Debits_Credits_Returns": {
+    "host": "hprc-h2.it.hpe.com",
+    "port": 2222,
+    "username": "sc360_gw",
+    "password": "SC360DropboxPWD2",
+    "remote_dir": "/",
+    "local_dir": "D:\\Shipments\\Reports\\EGI\\EGI2\\",
+    "file_pattern": "EGI_2_0_Aruba_Debits_Credits_Returns.xlsx",
+	"target_file_name": "Aruba_Debits_Credits_Returns.xlsx",
+	"source_ext": "xlsx",
+	"target_ext": "xlsx"
+  },
+  "OrderBook_S4_PGI_Status_Fallout": {
+    "host": "hprc-h2.it.hpe.com",
+    "port": 2222,
+    "username": "sc360_gw",
+    "password": "SC360DropboxPWD2",
+    "remote_dir": "/",
+    "local_dir": "D:\\PGI\\",
+    "file_pattern": "OrderBook_S4_PGI_Status_Fallout_*.csv",
+	"target_file_name": "WW_PGI_Fallout_from_orderbook_raw.xlsx",
+	"source_ext": "csv",
+	"target_ext": "xlsx"
+  }
+}
